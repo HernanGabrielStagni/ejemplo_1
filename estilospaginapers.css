@@ -1,0 +1,219 @@
+.caja__titulo--bienvenidos
+{
+   /* text-shadow: 125px 125px 0px gray;*/
+    position: absolute;
+    top: -8px;
+    left: 180px;
+    display: inline-block;
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 40px;
+    /*font-family: 'Tangerine', serif;*/
+    /*font-family: 'Bungee Spice', cursive;*/
+    /*font-family: 'Oswald', sans-serif;*/
+    font-family: 'Bungee Spice', sans-serif ;*/
+    /*font-family: 'Crimson Pro', serif;*/
+    */font-size: 20px;
+    font-weight: 100;/*grosor de borde letra*/
+    text-shadow: 2px 2px 0px #7a6e6e;
+    display: inline-block;
+    background-color: darkcyan;
+    color: blak;
+    height: 120px; 
+    width: 800px;
+    padding: 10px 40px 30px 20px;
+    border-radius: 15px;
+    border: 8px groove grey ;
+    outline: 3px solid blue;
+    
+    opacity: .8;
+   text-align: center;
+}
+
+.caja__titulo--2
+{
+    /*font-family: "Sofia", sans-serif;*/
+    /*font-family: 'Oswald', sans-serif;*/
+    font-family: 'Bungee Spice', sans-serif ;*/
+    /*font-family: 'Crimson Pro', serif;*/
+    font-size: 30px;
+    text-shadow: 2px 2px 0px #7a6e6e;
+    
+    text-align: center;
+    box-sizing: border-box;
+    font-size: x-large;
+    display: inline-block;
+    background-color: darkcyan;
+    color: blak;
+    height: 70px; 
+    width: 300px;
+    padding: 10px 20px 10px 10px;
+    border-radius: 15px;
+    border: 8px groove grey ;
+}
+
+.caja__titulo--4
+{
+    font-family: 'Bungee Spice', sans-serif ;
+    font-size: 25px;
+    display: inline-block;
+    position: relative;
+    /*top: 20px;
+    left: 7vp;
+    margin: 5px;*/
+
+
+}
+
+
+.tamaño__contenedor1
+{
+    display: inline-block;
+    position: relative;
+    top: -20px;
+    left: 120vmax;
+    margin: 5px;
+
+}
+
+.caja__irPaginas
+{
+    box-sizing: border-box;
+    display: inline-block;
+    background-color: darkcyan;
+    color: blak;
+    height: 120px; 
+    width: 150px;
+    padding: 10px 40px 30px 20px;
+    border-radius: 15px;
+    border: 5px groove grey;
+    f
+}
+
+
+    
+.etiqueta__datospersonales
+{
+    box-sizing: border-box;
+    display: inline-block;
+    background-color: darkcyan;
+    color: blak;
+    height: 130px;
+    width: 380px;
+    padding: 15px 00px 00px 25px;
+    padding-right:50px;
+    border-radius: 15px;
+    border: 10px groove grey ;
+}
+
+.tamaño__foto--extras
+{
+ display: inline-block; 
+ margin: 0px 50px;
+ height: 400px;
+ width: 300;
+ border-radius: 15px;
+ border: 10px groove grey ;
+ filter: grayscale(.7); 
+display: ;
+}
+
+
+
+
+    /*{display: inline-block; background-color: darkcyan; color: blak; height: 40px; line-height:40px; padding-left:20px; padding-right:20px}
+*/
+.caja1
+{
+    color: blue;
+    position: relative;
+    top: -60px;
+    left: 170px;
+    margin: 5px;
+    height: 30px;
+    width: 170px;
+    background: red;
+    
+    outline: 2px solid blue;
+    display: inline-block;
+    opacity: .7;
+    z-index: 10; /*orden*/
+    border-radius: 15px;
+    border: 8px groove grey ;
+
+}
+.caja2
+{
+    position: relative;
+    top: 0px;
+    left: 100px;
+    height: 30px;
+    width: 150px;
+    background: red;
+    margin: 2px;
+    outline: 3px solid blue;
+    display: inline-block;
+    
+    opacity: .9;
+    z-index: 10; /*orden*/
+    border-radius: 15px;
+    border: 8px groove grey ;
+position: absolute;
+}
+
+
+/*####################################################*/
+
+.texto__caja
+{
+color: blue;
+text-shadow: 1px 1px 0px gray;
+height: 30px;
+width: 170px;
+display: inline-block;
+z-index: 20;
+
+}
+
+
+.texto__cajas--1
+{
+position: absolute;
+font-size: 20px;
+top: 170px;
+left: 250px;
+z-index: 20
+}
+
+.texto__cajas--2
+{
+position: absolute;
+font-size: 20px;
+top: 170px;
+left:430px;
+z-index: 20
+}
+.texto__cajas--3
+{
+position: absolute;
+font-size: 20px;
+top: 170px;
+left: 640px;
+z-index: 20
+}
+
+.texto__cajas--4
+{
+position: absolute;
+font-size: 20px;
+top: 170px;
+left: 840px;
+z-index: 20
+}
+
+
+img
+{
+    filter: blur(irem);
+
+}
